@@ -1,6 +1,4 @@
-# Walmart-Sale-Explorative-Analysis-using-Mysql
-
-# Walmart Sales Explorative Analysis Using MySQL
+# Walmart-Sale-Exploratory-Analysis-using-Mysql
 
 ## Project Overview
 This project performs an explorative analysis of Walmart sales data using MySQL. The goal is to investigate sales patterns, identify trends, and uncover insights that can inform business strategies. Through SQL-based data manipulation and querying, the project demonstrates how to efficiently explore large datasets to answer key business questions about sales performance across various timeframes and categories.
